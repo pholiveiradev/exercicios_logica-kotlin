@@ -37,4 +37,5 @@ fun main() {
     println("Somente latas: $paintCans, total: R$ $totalPriceCans")
     println("Somente galões: $paintGallons, total: R$ $totalPriceGallons")
     println("Latas: $cansForMix e Galões: $gallonsForMix, total: R$ $totalPriceMix")
+    sc.close()
 }
